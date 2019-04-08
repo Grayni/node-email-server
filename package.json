@@ -1,0 +1,19 @@
+{
+  "name": "email-server",
+  "version": "1.0.0",
+  "description": "Server for send email message to  owner of site",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grayni/node-email-server.git"
+  },
+  "author": "Grayni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grayni/node-email-server/issues"
+  },
+  "homepage": "https://github.com/Grayni/node-email-server#readme"
+}
